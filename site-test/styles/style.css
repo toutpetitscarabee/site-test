@@ -1,0 +1,18 @@
+/* p est une sélecteur,  color: red16:03 04/04/2024 est une déclaration (i.e. une règle) */
+p, li {
+  color: blue;
+}
+
+p {
+   width: 1000px
+}
+
+/* les liens passent en rose quand on passe la souris dessus (hover) */
+a:hover {
+  color: pink
+}
+
+html {
+  background-color: grey
+}
+
